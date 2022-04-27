@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1366" height="767">
+    <defs>
+        <linearGradient id="linear-gradient" x1=".5" x2=".5" y2="1" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+            <stop offset="1" stop-color="#f0f5fa"/>
+        </linearGradient>
+        <linearGradient id="linear-gradient-2" x1=".466" y1=".343" x2=".624" y2=".61" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#e8f4ff"/>
+            <stop offset=".246" stop-color="#f0f4f5"/>
+            <stop offset="1" stop-color="#fff"/>
+        </linearGradient>
+        <linearGradient id="linear-gradient-3" x1=".374" y1=".575" x2=".543" y2="-.004" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#edf4f9"/>
+            <stop offset="1" stop-color="#fff"/>
+        </linearGradient>
+        <linearGradient id="linear-gradient-4" x1=".656" y1=".972" x2=".343" y2=".025" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#fff"/>
+            <stop offset="1" stop-color="#f0f4f5"/>
+        </linearGradient>
+        <filter id="Trazado_14945" x="-891.695" y="-1426.86" width="2930.583" height="3218.177" filterUnits="userSpaceOnUse">
+            <feOffset dx="-35" dy="21"/>
+            <feGaussianBlur stdDeviation="11" result="blur"/>
+            <feFlood flood-color="#1a4864" flood-opacity=".051"/>
+            <feComposite operator="in" in2="blur"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="Trazado_14944" x="708.725" y="-434.01" width="1193.94" height="1174.063" filterUnits="userSpaceOnUse">
+            <feOffset dx="50" dy="25"/>
+            <feGaussianBlur stdDeviation="17.5" result="blur-2"/>
+            <feFlood flood-color="#1a4864" flood-opacity=".102"/>
+            <feComposite operator="in" in2="blur-2"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="Elipse_691" x="911.922" y="-172.305" width="356.61" height="356.61" filterUnits="userSpaceOnUse">
+            <feOffset dx="6" dy="6"/>
+            <feGaussianBlur stdDeviation="7.5" result="blur-3"/>
+            <feFlood flood-color="#1a4864" flood-opacity=".149"/>
+            <feComposite operator="in" in2="blur-3"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="Elipse_925" x="60.273" y="252.771" width="228.459" height="228.459" filterUnits="userSpaceOnUse">
+            <feOffset dx="6" dy="6"/>
+            <feGaussianBlur stdDeviation="7.5" result="blur-4"/>
+            <feFlood flood-color="#1a4864" flood-opacity=".149"/>
+            <feComposite operator="in" in2="blur-4"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <clipPath id="clip-path">
+            <path id="Rectángulo_8267" data-name="Rectángulo 8267" class="cls-1" d="M0 0h1366v767H0z"/>
+        </clipPath>
+        <clipPath id="clip-path-2">
+            <path id="Rectángulo_7062" data-name="Rectángulo 7062" class="cls-1" d="M0 0h1366v766H0z"/>
+        </clipPath>
+        <clipPath id="clip-path-3">
+            <path id="Rectángulo_7059" data-name="Rectángulo 7059" class="cls-1" transform="translate(783)" d="M0 0h583v766H0z"/>
+        </clipPath>
+        <style>
+            .cls-1{fill:#fff;stroke:#707070}.cls-5{fill:none;stroke:#c3d5e0;stroke-miterlimit:10}.cls-10{opacity:.5}.cls-5{opacity:.75}.cls-10{fill:url(#linear-gradient-4)}
+        </style>
+    </defs>
+    <g id="Enmascarar_grupo_289" data-name="Enmascarar grupo 289" style="clip-path:url(#clip-path)">
+        <path id="Rectángulo_8268" data-name="Rectángulo 8268" transform="translate(0 274)" style="fill:url(#linear-gradient)" d="M0 0h1366v492H0z"/>
+        <circle id="Elipse_927" data-name="Elipse 927" cx="408.029" cy="408.029" r="408.029" transform="rotate(-135 760.491 300.091)" style="opacity:.5;fill:none;stroke:#c3d5e0;stroke-miterlimit:10"/>
+        <g id="Grupo_6914" data-name="Grupo 6914">
+            <circle id="Elipse_689" data-name="Elipse 689" class="cls-5" cx="457.597" cy="457.597" r="457.597" transform="rotate(-135 673.241 260.858)"/>
+            <g style="clip-path:url(#clip-path-2)">
+                <g style="filter:url(#Trazado_14945)" id="Enmascarar_grupo_187" data-name="Enmascarar grupo 187">
+                    <path id="Trazado_14945-2" data-name="Trazado 14945" d="M192.682 1440.941c312.027 207.277 728.572 246.323 1073.529 100.635s668.514-513.885 738.5-882.5c25.045-131.92-32.611-229.2 27.59-349.168 64.4-128.346 188.386-218.609 321.69-271.375s276.991-72.256 419.044-91.333H106.533z" transform="rotate(57.3 1594.152 -296.44)" style="fill:url(#linear-gradient-2)"/>
+                </g>
+            </g>
+            <g id="Enmascarar_grupo_186" data-name="Enmascarar grupo 186" style="clip-path:url(#clip-path-3)">
+                <g id="Grupo_6584" data-name="Grupo 6584">
+                    <g transform="matrix(1 -.002 .002 1 -.654 -.11)" style="filter:url(#Trazado_14944)" id="Grupo_6582" data-name="Grupo 6582">
+                        <path id="Trazado_14944-2" data-name="Trazado 14944" d="M30.731 415c31.044 21.511 68.226 32.658 105.551 38.426 64.913 10.03 133.709 4.071 191.975-26.249S432.678 340.117 441.3 275c3.993-30.148.1-60.726.344-91.137s5.317-62.411 24.344-86.136C492.4 64.795 567.4-31.206 707.291 67.924c10.431 6.36 32.794 6.237 49.055-5.293s38.677-74.781 4.4-152.8S621.154-277.5 466.438-260.24 336.546-32.368 141.878-21.122C90.548-18.156 38.416-14.6-11.766-25.79c-3.892-.868-8.078-1.8-11.753-.259-5.357 2.248-7.376 8.665-8.624 14.338-11.588 52.72-10.569 107.287-9.493 161.255.908 45.574 1.477 91.17 2.732 136.736.836 30.361 9.624 56.456 25.536 82.56a147.37 147.37 0 0 0 18.954 24.632C9.963 398.089 24.112 415 30.731 415z" transform="rotate(143 806.918 260.428)" style="fill:url(#linear-gradient-3)"/>
+                    </g>
+                </g>
+            </g>
+            <g style="filter:url(#Elipse_691)">
+                <circle id="Elipse_691-2" data-name="Elipse 691" class="cls-10" cx="113.069" cy="113.069" r="113.069" transform="rotate(148.2 614.298 195.431)"/>
+            </g>
+            <g style="filter:url(#Elipse_925)">
+                <circle id="Elipse_925-2" data-name="Elipse 925" class="cls-10" cx="66.569" cy="66.569" r="66.569" transform="rotate(148.2 75.301 228.157)"/>
+            </g>
+            <circle id="Elipse_690" data-name="Elipse 690" class="cls-5" cx="189.516" cy="189.516" r="189.516" transform="rotate(-135 92.887 102.391)"/>
+        </g>
+    </g>
+</svg>

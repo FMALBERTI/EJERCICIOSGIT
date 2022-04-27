@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="35" height="35">
+    <defs>
+        <linearGradient id="linear-gradient" x1=".5" x2=".5" y2="1" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#14c0ff"/>
+            <stop offset=".567" stop-color="#1489ff"/>
+            <stop offset="1" stop-color="#007fff"/>
+        </linearGradient>
+        <style>
+            .cls-2{fill:#fff}.cls-3{fill:none}
+        </style>
+    </defs>
+    <g id="Grupo_7047" data-name="Grupo 7047" transform="translate(-386 -1974)">
+        <g id="Elipse_887" data-name="Elipse 887" transform="translate(386 1974)" style="stroke:#1489ff;fill:url(#linear-gradient)">
+            <circle cx="17.5" cy="17.5" r="17.5" style="stroke:none"/>
+            <circle class="cls-3" cx="17.5" cy="17.5" r="17"/>
+        </g>
+        <g id="Grupo_6830" data-name="Grupo 6830" transform="translate(355.344 1657.344)">
+            <g id="Grupo_6829" data-name="Grupo 6829" transform="translate(37 323)">
+                <g id="Grupo_6723" data-name="Grupo 6723" transform="translate(-.344 3.607)">
+                    <g id="cupones_menu_lateral">
+                        <g id="Grupo_6721" data-name="Grupo 6721">
+                            <g id="Grupo_1745" data-name="Grupo 1745">
+                                <g id="Grupo_1746" data-name="Grupo 1746" transform="translate(14.977)">
+                                    <g id="Trazado_2551" data-name="Trazado 2551" transform="translate(0 3.311)">
+                                        <path id="Trazado_15063" data-name="Trazado 15063" class="cls-2" d="M26.287 22.056a.939.939 0 0 1-.692.287 1.031 1.031 0 0 1-.7-.287 1 1 0 0 1-.287-.7.985.985 0 0 1 .287-.7 3.7 3.7 0 0 0 0-5.231.985.985 0 0 1-.287-.7.98.98 0 0 1 .986-.978.985.985 0 0 1 .7.287 5.677 5.677 0 0 1-.007 8.022z" transform="translate(-24.61 -13.75)"/>
+                                    </g>
+                                    <g id="Trazado_2552" data-name="Trazado 2552" transform="translate(3.311)">
+                                        <path id="Trazado_15064" data-name="Trazado 15064" class="cls-2" d="M30.787 24.177a.968.968 0 0 1-.692.287 1.045 1.045 0 0 1-.7-.287 1 1 0 0 1-.287-.7.985.985 0 0 1 .287-.7 8.39 8.39 0 0 0 .005-11.842.989.989 0 0 1 .7-1.685 1 1 0 0 1 .64.235v.037l.074.037a10.352 10.352 0 0 1-.027 14.618z" transform="translate(-29.11 -9.25)"/>
+                                    </g>
+                                </g>
+                                <g id="Elipse_241" data-name="Elipse 241" transform="translate(10.15 5.885)">
+                                    <circle id="Elipse_886" data-name="Elipse 886" class="cls-2" cx="1.655" cy="1.655" r="1.655"/>
+                                </g>
+                                <g id="Grupo_1745-2" data-name="Grupo 1745-2" transform="translate(0 .001)">
+                                    <g id="Trazado_2553" data-name="Trazado 2553" transform="translate(4.684 3.31)">
+                                        <path id="Trazado_15065" data-name="Trazado 15065" class="cls-2" d="M13.673 20.658a.985.985 0 0 1 .287.7.955.955 0 0 1-.287.7.98.98 0 0 1-.692.287h-.007a.979.979 0 0 1-.7-.287 5.684 5.684 0 0 1 0-8.019.988.988 0 1 1 1.4 1.4 3.694 3.694 0 0 0-.001 5.219z" transform="translate(-10.62 -13.75)"/>
+                                    </g>
+                                    <g id="Trazado_2554" data-name="Trazado 2554">
+                                        <path id="Trazado_15066" data-name="Trazado 15066" class="cls-2" d="M8.966 23.478a.967.967 0 0 1-.287.7.98.98 0 0 1-.692.287h-.006a1.011 1.011 0 0 1-.7-.287 10.359 10.359 0 0 1 0-14.64.988.988 0 0 1 1.4.007 1 1 0 0 1 0 1.39 8.383 8.383 0 0 0 0 11.844.985.985 0 0 1 .285.699z" transform="translate(-4.252 -9.251)"/>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <path id="Rectángulo_8049" data-name="Rectángulo 8049" class="cls-3" transform="translate(-.344 -.344)" d="M0 0h23v23H0z"/>
+            </g>
+        </g>
+    </g>
+</svg>

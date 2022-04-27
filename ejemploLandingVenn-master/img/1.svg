@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="35" height="35" viewBox="0 0 35 35">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #1489ff;
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        stroke: none;
+      }
+
+      .cls-4 {
+        fill: none;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#14c0ff"/>
+      <stop offset="0.567" stop-color="#1489ff"/>
+      <stop offset="1" stop-color="#007fff"/>
+    </linearGradient>
+  </defs>
+  <g id="Grupo_7049" data-name="Grupo 7049" transform="translate(-386 -2280)">
+    <g id="Elipse_892" data-name="Elipse 892" class="cls-1" transform="translate(386 2280)">
+      <circle class="cls-3" cx="17.5" cy="17.5" r="17.5"/>
+      <circle class="cls-4" cx="17.5" cy="17.5" r="17"/>
+    </g>
+    <g id="Mentorías_1_a_1" transform="translate(391.542 2285.542)">
+      <path id="Trazado_30481" data-name="Trazado 30481" class="cls-2" d="M535.328,404.363a11.958,11.958,0,1,0,11.959,11.958A11.955,11.955,0,0,0,535.328,404.363Zm0,22.114a10.211,10.211,0,1,1,10.211-10.211A10.231,10.231,0,0,1,535.328,426.477Z" transform="translate(-523.37 -404.363)"/>
+      <path id="Trazado_30482" data-name="Trazado 30482" class="cls-2" d="M543.966,416.263v10.921h-2.02v-8.791l-2.676,1.638v-2.075l2.894-1.693Z" transform="translate(-530.588 -409.765)"/>
+    </g>
+  </g>
+</svg>
